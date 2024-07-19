@@ -1,0 +1,6 @@
+@DownstreamService_HostAddress = http://localhost:5275
+
+GET {{DownstreamService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
